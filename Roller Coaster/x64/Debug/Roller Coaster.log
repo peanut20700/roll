@@ -1,0 +1,28 @@
+﻿  TrainView.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math_defines.h(17): warning C4005: 'M_E': 巨集重複定義
+  c:\qt\qt5.9.6\5.9.6\msvc2017_64\include\qtcore\qmath.h(153): note: 請參閱 'M_E' 之前的定義
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math_defines.h(18): warning C4005: 'M_LOG2E': 巨集重複定義
+  c:\qt\qt5.9.6\5.9.6\msvc2017_64\include\qtcore\qmath.h(157): note: 請參閱 'M_LOG2E' 之前的定義
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math_defines.h(19): warning C4005: 'M_LOG10E': 巨集重複定義
+  c:\qt\qt5.9.6\5.9.6\msvc2017_64\include\qtcore\qmath.h(161): note: 請參閱 'M_LOG10E' 之前的定義
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math_defines.h(20): warning C4005: 'M_LN2': 巨集重複定義
+  c:\qt\qt5.9.6\5.9.6\msvc2017_64\include\qtcore\qmath.h(165): note: 請參閱 'M_LN2' 之前的定義
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math_defines.h(21): warning C4005: 'M_LN10': 巨集重複定義
+  c:\qt\qt5.9.6\5.9.6\msvc2017_64\include\qtcore\qmath.h(169): note: 請參閱 'M_LN10' 之前的定義
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math_defines.h(22): warning C4005: 'M_PI': 巨集重複定義
+  c:\qt\qt5.9.6\5.9.6\msvc2017_64\include\qtcore\qmath.h(173): note: 請參閱 'M_PI' 之前的定義
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math_defines.h(23): warning C4005: 'M_PI_2': 巨集重複定義
+  c:\qt\qt5.9.6\5.9.6\msvc2017_64\include\qtcore\qmath.h(177): note: 請參閱 'M_PI_2' 之前的定義
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math_defines.h(24): warning C4005: 'M_PI_4': 巨集重複定義
+  c:\qt\qt5.9.6\5.9.6\msvc2017_64\include\qtcore\qmath.h(181): note: 請參閱 'M_PI_4' 之前的定義
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math_defines.h(25): warning C4005: 'M_1_PI': 巨集重複定義
+  c:\qt\qt5.9.6\5.9.6\msvc2017_64\include\qtcore\qmath.h(185): note: 請參閱 'M_1_PI' 之前的定義
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math_defines.h(26): warning C4005: 'M_2_PI': 巨集重複定義
+  c:\qt\qt5.9.6\5.9.6\msvc2017_64\include\qtcore\qmath.h(189): note: 請參閱 'M_2_PI' 之前的定義
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math_defines.h(27): warning C4005: 'M_2_SQRTPI': 巨集重複定義
+  c:\qt\qt5.9.6\5.9.6\msvc2017_64\include\qtcore\qmath.h(193): note: 請參閱 'M_2_SQRTPI' 之前的定義
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math_defines.h(28): warning C4005: 'M_SQRT2': 巨集重複定義
+  c:\qt\qt5.9.6\5.9.6\msvc2017_64\include\qtcore\qmath.h(197): note: 請參閱 'M_SQRT2' 之前的定義
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math_defines.h(29): warning C4005: 'M_SQRT1_2': 巨集重複定義
+  c:\qt\qt5.9.6\5.9.6\msvc2017_64\include\qtcore\qmath.h(201): note: 請參閱 'M_SQRT1_2' 之前的定義
+  Roller Coaster.vcxproj -> E:\Lai-CG\P3\RollerCoaster\x64\Debug\Roller Coaster.exe
